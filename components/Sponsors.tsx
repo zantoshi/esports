@@ -2,7 +2,7 @@ export default function Sponsors() {
   return (
     <div className="flex flex-col items-center justify-center w-full mt-6">
       <p className="mt-2 text-3xl font-bold tracking-tight text-white-100 sm:text-4xl mb-8">
-        Platnium Sponsor
+        Platinum Sponsor
       </p>
       <div className="flex flex-wrap justify-center ">
         <div className="w-1/2 md:w-1/3 mb-4 px-4 flex items-center justify-center space-x-8">

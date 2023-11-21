@@ -5,7 +5,7 @@ import "../styles/globals.css";
 let title = "ZBD - The Future of Esports";
 let description =
   "Step into the thrilling world of competitive gaming and empower yourself to leave a mark on the future of esports.";
-let ogimage = "./seo.png";
+let ogimage = "https://esports.zbd.gg/seo.png";
 let sitename = "ZBD - The Future of Esports";
 
 export const metadata: Metadata = {
